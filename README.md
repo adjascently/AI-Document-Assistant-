@@ -1,6 +1,6 @@
 
 
-# 🧠 AI-Document-Assistant-
+# 🧠 AI-Document-Assistant
 
 A modern, AI-driven document analysis platform that allows users to interact with PDF content through natural language conversations. Built with the latest technologies including **Next.js 15**, **OpenAI**, **Pinecone**, and **LangChain**.
 
